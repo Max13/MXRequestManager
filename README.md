@@ -24,7 +24,7 @@ In short, the power and the flexibility I need for my REST projects, you'll have
 
 Authors
 -------
-- Project idea, developer and maintainer: Adnan "_Max13_" RIHAN.
+- Project idea, developer and maintainer: Adnan _"Max13"_ RIHAN.
 
 Contributors
 ------------
@@ -32,6 +32,6 @@ Contributors
 
 Linked projects
 ---------------
-Currently, the idea of this project came from my coding brother Thomas "_Dimilian_" RICOUARD who started with his own RequestManager and released it in OpenSource. We both have decided to linked our projects in a big master project to be able to provide some close enough to each other, libraries for our projects.
+Currently, the idea of this project came from my coding brother Thomas _"Dimilian"_ RICOUARD who started with his own RequestManager and released it in OpenSource. We both have decided to linked our projects in a big master project to be able to provide some close enough to each other, libraries for our projects.
 
-- [**DMRequestManager**](https://github.com/Dimilian/DMRequestManager) (_iOS_): Thomas "_Dimilian_" RICOUARD.
+- [**DMRequestManager**](https://github.com/Dimillian/DMRESTRequest-objc) (_iOS_): Thomas _"Dimilian"_ RICOUARD.
