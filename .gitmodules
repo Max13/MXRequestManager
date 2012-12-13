@@ -1,3 +1,9 @@
 [submodule "Qt"]
 	path = Qt
 	url = https://github.com/Max13/MXRequestManager-Qt.git
+[submodule "PHP"]
+	path = PHP
+	url = https://github.com/Max13/MXRequestManager-PHP.git
+[submodule "JS"]
+	path = JS
+	url = https://github.com/Max13/MXRequestManager-JS.git
